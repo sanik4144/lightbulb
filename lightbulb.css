@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+    /* display: flex;
+    flex-direction: column; */
+}
+#surprise{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: red;
+}
+.btn{
+    height: 40px;
+    margin: 5px;
+    padding: 15px;
+    padding-bottom: 32px;
+    background-color: rgb(67, 188, 195);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 25px;
+}
+#btn2{
+    visibility: hidden;
+}
+.btn:hover{
+    background-color: rgb(34, 133, 138);
+}
